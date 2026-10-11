@@ -1,51 +1,35 @@
-# Hi, I'm Alper 👋
 
-### PhD Researcher | Computer Vision & Machine Learning
+# Ahmet Alper Ozturk
 
-I'm a PhD researcher at the **University of Strathclyde, Glasgow**, with a background in machine learning, deep learning, network science, and quantitative analysis.
+PhD Researcher | Computer Vision & Machine Learning  
+University of Strathclyde, Glasgow
 
-My research focuses on applying computer vision and deep learning to dairy cattle monitoring, with an emphasis on animal welfare and heat stress assessment.
+I'm a PhD researcher at the University of Strathclyde, focusing on computer vision and deep learning for non-invasive respiratory rate estimation in dairy cattle, with the aim of supporting heat stress monitoring and animal welfare assessment.
 
-## 🔬 Research Interests
+My current work involves developing object detection and posture recognition pipelines.
 
-- Computer Vision & Deep Learning
-- Object Detection & Animal Behaviour Recognition
-- Applied Machine Learning
-- Network Science & Complex Systems
+## Research
 
-## 🎓 Academic Background
+**Current — PhD, University of Strathclyde (2026–present)**
 
-- **PhD Researcher**, University of Strathclyde (2026–Present)
-- **MSc Machine Learning & Deep Learning**, University of Strathclyde — **Distinction**
-- **MSc Financial Markets**, University of Kent — **Distinction**
-- **BSc Industrial Engineering**, Galatasaray University
+Computer vision and deep learning for respiratory rate estimation in dairy cattle.
 
-## 📚 Previous Research
+**Previous — MSc Research Project**
 
-### Avalanche Entropy for Cascading Failures in Multilayer Networks
+*Avalanche Entropy for Cascading Failures in Multilayer Networks*
 
-MSc research project at the University of Strathclyde.
+Investigated entropy-based measures of structural importance in multilayer networks, using social and transport network datasets.
 
-Investigated Avalanche Entropy in multilayer networks, exploring relationships between entropy-based measures and network centrality using social and transportation networks.
+## Education
 
-**Methods & Tools:** Python, NetworkX, NumPy, SciPy, Graph Theory, Information Theory.
+- MSc Machine Learning & Deep Learning — University of Strathclyde (Distinction)
+- MSc Financial Markets — University of Kent (Distinction)
+- BSc Industrial Engineering — Galatasaray University
 
-## 💻 Technical Skills
+## Technical Background
 
-**Programming:** Python, MATLAB
+- **Programming:** Python, MATLAB
+- **Deep Learning:** CNNs, RNNs, LSTMs, Transformers, Vision Transformers
+- **Computer Vision:** Object Detection, Optical Flow, Pose Estimation, YOLO
+- **Frameworks & Tools:** PyTorch, TensorFlow, Keras, scikit-learn, NumPy, SciPy, NetworkX
 
-**Machine Learning:** Regression, Classification, Support Vector Machines (SVM), Random Forests, Ensemble Learning
-
-**Deep Learning:** CNNs, RNNs, LSTM, Transformers, Vision Transformers (ViT), Transfer Learning
-
-**Computer Vision:** Object Detection, Image Classification, Optical Flow, YOLO, Pose Estimation
-
-**Frameworks & Libraries:** PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas, SciPy, NetworkX
-
-**Data Analysis & Visualisation:** Matplotlib, Seaborn
-
-## 🚀 Current Research
-
-Developing computer vision pipelines for dairy cattle monitoring as part of my PhD research.
-
-Research code and datasets are managed in accordance with institutional and project requirements.
