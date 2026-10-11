@@ -1,12 +1,9 @@
 
-# Ahmet Alper Ozturk
+# Hi, I'm Alper
 
-PhD Researcher | Computer Vision & Machine Learning  
-University of Strathclyde, Glasgow
+My research focuses on computer vision and deep learning for non-invasive respiratory rate estimation in dairy cattle, with the aim of supporting heat stress monitoring and animal welfare assessment.
 
-I'm a PhD researcher at the University of Strathclyde, focusing on computer vision and deep learning for non-invasive respiratory rate estimation in dairy cattle, with the aim of supporting heat stress monitoring and animal welfare assessment.
-
-My current work involves developing object detection and posture recognition pipelines.
+I'm currently developing object detection and posture recognition pipelines as part of my PhD research.
 
 ## Research
 
